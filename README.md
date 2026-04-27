@@ -15,7 +15,7 @@ This website contains frontend for GoGym website, and technologies used are
 - Download or clone the repository
 
 ```
-git clone 
+git clone https://github.com/helloayushhh/GoGym-Website.git
 ```
 
 - Go to the directory
