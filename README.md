@@ -1,4 +1,4 @@
-# GoGym Fitness website
+# GoGym - Fitness website
 This website contains frontend for GoGym website, and technologies used are 
 * HTML    
  
