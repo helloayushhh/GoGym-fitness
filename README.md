@@ -34,8 +34,8 @@ i used it to practice responsive layouts, reusable components and creating a cle
 ## run locally
 
 ```bash
-git clone https://github.com/helloayushhh/GoGym-fitness.git
-cd GoGym-fitness
+git clone https://github.com/helloayushhh/go-gym-fitness.git
+cd go-gym-fitness
 ```
 
 open `index.html` in your browser or use a local server.
